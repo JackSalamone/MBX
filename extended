@@ -6,4 +6,11 @@
             "Youtube": "Black Bear Crypto",
             "Instagram": "MaineBlockchain"
         }
+    },
+    "my-pool-ids": {
+        "0": "xxx"
+    },
+    "telegram-admin-handle": {
+        "0": "xxx"
+    }
 }
