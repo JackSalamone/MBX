@@ -2,4 +2,9 @@
     "info": {
         "url_png_icon_64x64": "https://github.com/JackSalamone/MBX/blob/main/logo1.png",
         "url_png_logo": "https://github.com/JackSalamone/MBX/blob/main/logo1.png",
+        "social": {
+            "Youtube": "Black Bear Crypto",
+            "Instagram": "MaineBlockchain"
+        }
+    },
 }
