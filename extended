@@ -8,12 +8,12 @@
         },
         "company": {
             "name": "Maine Blockchain LLC",
-            "addr": "PO Box 323, 14 Bar Mills Road",
-            "city": "Hollis",
+            "addr": "PO Box 323 - 14 Bar Mills Road",
+            "city": "Hollis Center",
             "country": "Maine"
         },
         "about": {
-            "me": "Jack",
+            "me": "Jack Salamone",
             "company": "Maine Blockchain LLC"
         }
     }
